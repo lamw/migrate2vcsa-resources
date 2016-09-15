@@ -25,13 +25,14 @@ A collection of useful links and resources related to the Windows vCenter Server
  * [Migrating vCenter Server 5.5 to vCenter Server Appliance 6.0 Update 2m FAQ](http://vmwa.re/migrate2vcsafaq)
  * [Estimating vCenter Server 5.5 to vCenter Server Appliance 6.0 migration time](https://kb.vmware.com/kb/2146420)
  * [Active directory user permissions required for Windows vCenter to vCenter Server Appliance Migration](https://kb.vmware.com/kb/2146454)
- * [Moving Update Manager to a New Host Machine When Migrating vCenter Server to vCenter Server Appliance](pubs.vmware.com/vsphere-60/index.jsp?topic=%2Fcom.vmware.vsphere.migration.doc%2FGUID-B2642367-68BF-4EB8-81D4-F7791D501FD5.html)
+ * [Moving Update Manager to a New Host Machine When Migrating vCenter Server to vCenter Server Appliance](http://pubs.vmware.com/vsphere-60/index.jsp?topic=%2Fcom.vmware.vsphere.migration.doc%2FGUID-B2642367-68BF-4EB8-81D4-F7791D501FD5.html)
  * [Rolling Back a Migration of vCenter Server 5.5 on Windows to vCenter Server Appliance 6.0 U2m or Later](https://kb.vmware.com/kb/2146453)
 
 ## Videos
  * [UI Demo - Migration of Windows vCenter Server 5.5 to vCenter Server Appliance 6.0 Update 2m](https://vimeo.com/178825595)
  * [CLI Demo - Migration of Windows Single Sign-On (SSO) 5.5 to External Platform Services Controller (PSC) 6.0 Update 2m](https://vimeo.com/178825553)
  * [CLI Demo - Migration of Windows vCenter Server 5.5 to vCenter Server Appliance (VCSA) 6.0 Update 2m](https://vimeo.com/177147961)
+ * [VMware vSphere 6.0 Update 2m (Migration)](https://youtu.be/bQv-mciwJ24)
 
 ## VMworld US 2016 Sessions
 * [INF9044 - Journey to the vCenter Server Appliance: A Migration Story](http://vmware.mediasite.com/mediasite/Play/2576798222674c72bc998c5ceae32b771d?catalog=dbf1ec28-2557-4dd3-a381-e5fe4ceabc40)
