@@ -29,9 +29,9 @@ A collection of useful links and resources related to the Windows vCenter Server
  * [Rolling Back a Migration of vCenter Server 5.5 on Windows to vCenter Server Appliance 6.0 U2m or Later](https://kb.vmware.com/kb/2146453)
 
 ## Videos
- * [UI Demo - Migration of Windows vCenter Server 5.5 to vCenter Server Appliance 6.0 Update 2m](https://vimeo.com/178825595)
+ * [UI Demo - Migration of Windows vCenter Server 5.5 to vCenter Server Appliance 6.0 Update 2m](https://vimeo.com/177147961)
  * [CLI Demo - Migration of Windows Single Sign-On (SSO) 5.5 to External Platform Services Controller (PSC) 6.0 Update 2m](https://vimeo.com/178825553)
- * [CLI Demo - Migration of Windows vCenter Server 5.5 to vCenter Server Appliance (VCSA) 6.0 Update 2m](https://vimeo.com/177147961)
+ * [CLI Demo - Migration of Windows vCenter Server 5.5 to vCenter Server Appliance (VCSA) 6.0 Update 2m]( https://vimeo.com/178825595)
  * [VMware vSphere 6.0 Update 2m (Migration)](https://youtu.be/bQv-mciwJ24)
 
 ## VMworld US 2016 Sessions
