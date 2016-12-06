@@ -10,6 +10,7 @@ A collection of useful links and resources related to the Windows vCenter Server
 * [http://vmwa.re/migrate2vcsafaq - FAQ KB](http://vmwa.re/migrate2vcsafaq)
 * [http://vmwa.re/migrate2vcsademo - Video Demo](http://vmwa.re/migrate2vcsademo)
 * [http://vmwa.re/migrate2vcsalinks - This page](http://vmwa.re/migrate2vcsalinks)
+* [http://vmwa.re/migrate2vcsastories - vCommunity Stories w/the VCSA Migration](vmwa.re/migrate2vcsastories)
 
 # Release
  * [vSphere 6.0 Update 2m Release Notes](http://pubs.vmware.com/Release_Notes/en/vsphere/60/vsphere-vcenter-server-60u2m-release-notes.html)
