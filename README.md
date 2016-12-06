@@ -24,6 +24,8 @@ A collection of useful links and resources related to the Windows vCenter Server
  * [How to tell if your vCenter Server Appliance (VCSA) was migrated from a Windows vCenter Server?](http://www.virtuallyghetto.com/2016/09/how-to-tell-if-your-vcenter-server-appliance-vcsa-was-migrated-from-a-windows-vcenter-server.html)
  * [How to check the size of your Config + Stats, Events, Alarms & Tasks (SEAT) data in the VCDB?](http://www.virtuallyghetto.com/2016/09/how-to-check-the-size-of-your-config-stats-events-alarms-tasks-seat-data-in-the-vcdb.html)
  * [Preparing for a vCenter Server Migration using the vSphere 6.0 Update 2m Migration Tool – Part 1](https://blogs.vmware.com/vsphere/2016/09/preparing-for-a-vcenter-server-migration-using-the-vsphere-6-0-update-2m-migration-tool-part-1.html)
+ * [Preparing for a vCenter Server Migration using the vSphere 6.0 Update 2m Migration Tool – Part 2](https://blogs.vmware.com/vsphere/2016/10/preparing-vcenter-server-migration-using-vsphere-6-0-update-2m-migration-tool-part-2.html)
+ * [Preparing for a vCenter Server Migration using the vSphere 6.0 Update 2m Migration Tool – Part 3] (https://blogs.vmware.com/vsphere/2016/10/preparing-vcenter-server-migration-using-vsphere-6-0-update-2m-migration-tool-part-3.html)
 
 # Knowledge Base (KB) Articles / Documentation
  * [Migrating vCenter Server 5.5 to vCenter Server Appliance 6.0 Update 2m FAQ](http://vmwa.re/migrate2vcsafaq)
